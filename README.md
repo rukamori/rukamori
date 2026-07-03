@@ -3,7 +3,7 @@
 
   <p>
     <a href="https://koiiverse.cloud">
-      <img src="https://koiiverse.cloud/assets/favicon/android-chrome-192x192.png" height="34" alt="Koiiverse"/>
+      <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koiiverse.cloud&size=128" height="34" alt="Koiiverse"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://bento.me/koiverse">
@@ -16,8 +16,8 @@
   </p>
 
   <p>
-    <a href="https://github.com/koiverse">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/koiverse?cardType=level&theme=material-palenight&preferLogin=false&Border=FFFFFF00&Background=FFFFFF00" height="165"/>
+    <a href="https://github.com/rukamori">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rukamori?cardType=level&theme=material-palenight&preferLogin=false&Border=FFFFFF00&Background=FFFFFF00" height="165"/>
     </a>
     <a href="https://koiiverse.cloud">
       <img src="https://lanyard.cnrad.dev/api/886971572668219392?imgStyle=square&idleMessage=Away..." height="165"/>
