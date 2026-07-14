@@ -3,7 +3,7 @@
 <a href="#stats" align="center">
   <picture>
     <source 
-      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=rukamori%20stats&langs_count=8&display_format=percent&theme=dark"
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=Work%20Stats&langs_count=8&display_format=percent&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source
