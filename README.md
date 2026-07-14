@@ -3,14 +3,14 @@
 <a href="#stats" align="center">
   <picture>
     <source 
-      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=Work%20Stats&langs_count=8&display_format=percent&theme=github_dark_dimmed"
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=rukamori%20code%20stats&langs_count=8&display_format=percent&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=rukamori%20stats&langs_count=8&display_format=percent&theme=catppuccin_latte"
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=rukamori%20code%20stats&langs_count=8&display_format=percent&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=rukamori%20stats&langs_count=8&display_format=percent&theme=catppuccin_latte" />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=koiverse&layout=compact&custom_title=rukamori%20code%20stats&langs_count=8&display_format=percent&theme=catppuccin_latte" />
   </picture>
 </a>
 
