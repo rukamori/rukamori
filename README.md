@@ -27,7 +27,7 @@
 
 | Opengraph 2022 | Opengraph 2024 | Opengraph 2025 |
 | --- | --- | --- |
-| [![](https://opengraph.githubassets.com/1/rukamori/ArchiveTune)](https://github.com/rukamori/ArchiveTune) | [![](https://opengraph.githubassets.com/1/rukamori/Kagi)](https://github.com/rukamori/Kagi) | [![](https://opengraph.githubassets.com/1/rukamori/Hikki)](https://github.com/rukamori/Hikki) |
+| ![](https://raw.githubusercontent.com/rukamori/rukamori/refs/heads/main/banner/banner1.png) | ![](https://raw.githubusercontent.com/rukamori/rukamori/refs/heads/main/banner/banner2.png) | ![](https://raw.githubusercontent.com/rukamori/rukamori/refs/heads/main/banner/banner3.png) |
 
 #### 注目のプロジェクト Highlights
 
