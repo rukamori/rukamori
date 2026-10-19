@@ -15,7 +15,7 @@
 </a>
 
 > [!TIP]  
-> I build open-source Android and desktop applications focused on music, privacy, and expressive interfaces. For collaboration, contact me at [me@koiiverse.cloud](mailto:me@koiiverse.cloud), or support my work through [koiverse/donate](https://koiiverse.cloud/donate).
+> I build open-source Android and desktop applications focused on music, privacy, and expressive interfaces. For collaboration, contact me at [me@miuka.moe](mailto:me@miuka.moe), or support my work through [miuka.moe/donate](https://miuka.moe/donate).
 
 #### 使用している言語とフレームワーク Languages & Frameworks I use
 
